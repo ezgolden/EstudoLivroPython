@@ -1,5 +1,4 @@
-📘 Estudo de Caso – Python Poderoso (Aaron Maxwell)
-
+<h2>📘 Estudo de Caso – Python Poderoso (Aaron Maxwell)</h2>
 <img src="https://m.media-amazon.com/images/I/61Fk2DE9NTL._UF1000,1000_QL80_.jpg" alt="Logo Python" width="200"/>
 
 Este repositório é dedicado ao meu estudo do livro Python Poderoso, escrito por Aaron Maxwell.
